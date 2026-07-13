@@ -1,6 +1,7 @@
 baseURL = "https://www.chenyugu.com"
 languageCode = "en-us"
 theme = "adritian-theme"
+title = "Chenyu Gu"
 
 # Plugins
 [params.plugins]
@@ -62,6 +63,8 @@ weight = 4
 
 
 [params]
+
+description = "Chenyu Gu — researcher in motion capture, IMU sensors, and rehabilitation engineering."
 
 sections = [
   "showcase",
